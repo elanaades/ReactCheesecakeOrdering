@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactCheesecakeOrdering.Data", "ReactCheesecakeOrdering.Data\ReactCheesecakeOrdering.Data.csproj", "{097E80C7-6187-4157-8997-47B5DDE0D918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactCheesecakeOrderingNew.Web", "ReactCheesecakeOrderingNew.Web\ReactCheesecakeOrderingNew.Web.csproj", "{0C1054A9-B24A-4B20-8691-CA1793EFAE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097E80C7-6187-4157-8997-47B5DDE0D918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097E80C7-6187-4157-8997-47B5DDE0D918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097E80C7-6187-4157-8997-47B5DDE0D918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097E80C7-6187-4157-8997-47B5DDE0D918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1054A9-B24A-4B20-8691-CA1793EFAE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1054A9-B24A-4B20-8691-CA1793EFAE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1054A9-B24A-4B20-8691-CA1793EFAE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1054A9-B24A-4B20-8691-CA1793EFAE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2DDE4C-EAE7-489A-B22C-8A9D78E1C670}
+	EndGlobalSection
+EndGlobal
